@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-fitness-blog/static/css/main.217ba1ca.css",
+    "main.js": "/my-fitness-blog/static/js/main.821196a7.js",
+    "static/media/blog.jpg": "/my-fitness-blog/static/media/blog.c840c3fd1d814f82ce40.jpg",
+    "static/media/pp.jpg": "/my-fitness-blog/static/media/pp.ea8f061bc93b72e8a139.jpg",
+    "static/media/write.jpg": "/my-fitness-blog/static/media/write.609dec074289bbf89faf.jpg",
+    "index.html": "/my-fitness-blog/index.html",
+    "main.217ba1ca.css.map": "/my-fitness-blog/static/css/main.217ba1ca.css.map",
+    "main.821196a7.js.map": "/my-fitness-blog/static/js/main.821196a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.217ba1ca.css",
+    "static/js/main.821196a7.js"
+  ]
+}
